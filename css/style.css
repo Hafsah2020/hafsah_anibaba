@@ -6384,53 +6384,53 @@ button.bg-success:focus {
   background-color: #1e7e34 !important;
 }
 
-.bg-info {
-  background-color: #17a2b8 !important;
+.bg-technical {
+  background-color: #007FFF !important;
 }
 
-a.bg-info:hover, a.bg-info:focus,
-button.bg-info:hover,
-button.bg-info:focus {
+a.bg-technical:hover, a.bg-technical:focus,
+button.bg-technical:hover,
+button.bg-technical:focus {
   background-color: #117a8b !important;
 }
 
-.bg-warning {
-  background-color: #ffc107 !important;
+.bg-softskills {
+  background-color: #FFA500 !important;
 }
 
-a.bg-warning:hover, a.bg-warning:focus,
-button.bg-warning:hover,
-button.bg-warning:focus {
-  background-color: #d39e00 !important;
+a.bg-softskills:hover, a.bg-softskills:focus,
+button.bg-softskills:hover,
+button.bg-softskills:focus {
+  background-color: #FFA500 !important;
 }
 
-.bg-danger {
-  background-color: #dc3545 !important;
+.bg-energy {
+  background-color: #008000 !important;
 }
 
-a.bg-danger:hover, a.bg-danger:focus,
-button.bg-danger:hover,
-button.bg-danger:focus {
+a.bg-energy:hover, a.bg-energy:focus,
+button.bg-energy:hover,
+button.bg-energy:focus {
   background-color: #bd2130 !important;
 }
 
-.bg-light {
-  background-color: #ffffff !important;
+.bg-navbar {
+  background-color: #FFFFFF !important;
 }
 
-a.bg-light:hover, a.bg-light:focus,
-button.bg-light:hover,
-button.bg-light:focus {
+a.bg-navbar:hover, a.bg-navbar:focus,
+button.bg-navbar:hover,
+button.bg-navbar:focus {
   background-color: #e6e6e6 !important;
 }
 
-.bg-dark {
-  background-color: #343a40 !important;
+.bg-management {
+  background-color: #FFFF00 !important;
 }
 
-a.bg-dark:hover, a.bg-dark:focus,
-button.bg-dark:hover,
-button.bg-dark:focus {
+a.bg-management:hover, a.bg-management:focus,
+button.bg-management:hover,
+button.bg-management:focus {
   background-color: #1d2124 !important;
 }
 
