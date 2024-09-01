@@ -6385,7 +6385,7 @@ button.bg-success:focus {
 }
 
 .bg-technical {
-  background-color: #007FFF !important;
+  background-color: #0077FF !important;
 }
 
 a.bg-technical:hover, a.bg-technical:focus,
@@ -6425,7 +6425,7 @@ button.bg-navbar:focus {
 }
 
 .bg-management {
-  background-color: #FFFF00 !important;
+  background-color: #FF0000 !important;
 }
 
 a.bg-management:hover, a.bg-management:focus,
