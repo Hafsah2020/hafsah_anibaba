@@ -539,6 +539,20 @@ mark,
   height: auto;
 }
 
+.img-projects {
+  padding: 0.25rem;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 100vw; /* Sets the width to 100% of the viewport width */
+  height: auto; /* Maintains the aspect ratio of the image */
+  max-width: 100%; /* Ensures the image does not exceed the screen width */
+  display: block; /* Removes any inline spacing */
+  margin: 0 auto; /* Centers the image horizontally */
+}
+
+
+
 .figure {
   display: inline-block;
 }
@@ -2858,7 +2872,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light {
-  color: #ffffff;
+  color: #535258;
   border-color: #ffffff;
 }
 
@@ -9522,6 +9536,10 @@ button.bg-management:focus {
 
 .text-white {
   color: #fff !important;
+}
+
+.text-colour {
+  color: #535258 !important;
 }
 
 .text-primary {
